@@ -1,4 +1,4 @@
-# summer-camp-school
+# summer-sale
 
 ## [ Private Repo Link](https://classroom.github.com/a/8HD_KzGj)
 
